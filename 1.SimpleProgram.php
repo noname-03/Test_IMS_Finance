@@ -1,6 +1,5 @@
 <?php 
 
-// masukan OTR
 $OTR = 240000000; // contoh OTR sebesar 240 juta
 $DP = $OTR * 0.20; // contoh DP sebesar 20%
 $jangkaWaktu = 18; // contoh jangka waktu 1.5 tahun
